@@ -52,7 +52,7 @@ Estou construindo meu portfólio com calma, focado em aprender com consistência
 ### 📫 Contato
 
 - LinkedIn: [linkedin.com/in/juan-batista-dev](https://www.linkedin.com/in/juan-batista-dev)  
-- E-mail: `juan.batistadev.dev@gmail.com`
+- E-mail: `juan.batista.dev@gmail.com`
 
 ---
 
