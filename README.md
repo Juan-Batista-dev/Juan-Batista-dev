@@ -57,3 +57,11 @@ Estou construindo meu portfólio com calma, focado em aprender com consistência
 ---
 
 ### 💡 Status: em aprendizado
+
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Batista-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
