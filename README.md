@@ -1,10 +1,10 @@
 # 👨‍💻 Juan Batista
 
-**`Futuro Desenvolvedor Front-end | Estudante de Tecnologia da Informação (UFMS)`**
+**`Futuro Desenvolvedor Back-end | Estudante de Tecnologia da Informação (UFMS)`**
 
 Olá! Me chamo Juan Batista, sou estudante de Tecnologia da Informação pela Universidade Federal de Mato Grosso do Sul (UFMS), atualmente no 4º período da graduação. Desde janeiro de 2024 estou mergulhado nesse universo da tecnologia e, agora, estou direcionando meus estudos com foco em desenvolvimento web Front-end.
 
-Estou aprendendo HTML e CSS com o curso do professor Gustavo Guanabara e criei esse GitHub para documentar meus estudos, organizar meus projetos e mostrar minha evolução na prática. Aqui você vai encontrar desde pequenos exercícios até os projetos que estou desenvolvendo ao longo da minha caminhada como dev.
+Estou aprendendo HTML, CSS e Principalmente Java com o curso do professor Gustavo Guanabara e criei esse GitHub para documentar meus estudos, organizar meus projetos e mostrar minha evolução na prática. Aqui você vai encontrar desde pequenos exercícios até os projetos que estou desenvolvendo ao longo da minha caminhada como dev.
 
 Estou construindo meu portfólio com calma, focado em aprender com consistência, disciplina e clareza de propósito. 🤝
 
@@ -38,7 +38,7 @@ Estou construindo meu portfólio com calma, focado em aprender com consistência
 - Projetos práticos em HTML e CSS
 - Meu site pessoal/portfólio
 - Repositórios organizados por curso e assunto
-- Evolução para JavaScript, Git e versionamento
+- Evolução para Java, Git e versionamento
 
 ---
 
